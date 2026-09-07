@@ -1,4 +1,4 @@
-# Student Performance Data Cleaning
+# Student Performance Data Cleaning Project
 
 ## Project Description
 
